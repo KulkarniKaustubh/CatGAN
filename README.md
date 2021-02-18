@@ -13,6 +13,6 @@ TODO:
 - [x] DCGAN Implementation
 - [ ] WGAN Implementation
 
-> Results are sub-par
+> Results are sub-par. Trained only for 100 epochs.
 
 ![15 Generated Cat Images](https://github.com/KulkarniKaustubh/CatGAN/blob/main/models/15_cats.png)
