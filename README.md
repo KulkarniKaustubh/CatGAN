@@ -15,4 +15,4 @@ TODO:
 
 > Results are sub-par
 
-![15 Generated Cat Images](https://github.com/KulkarniKaustubh/CatGAN/models/15_cats.png)
+![15 Generated Cat Images](https://github.com/KulkarniKaustubh/CatGAN/blob/main/models/15_cats.png)
